@@ -1,7 +1,7 @@
 {
   "name": "duo-coffee",
   "description": "CoffeeScript plugin for duo package manager",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "homepage": "http://github.com/sergeyt/duo-coffee",
   "repository": "git://github.com/sergeyt/duo-coffee.git",
   "author": "Sergey Todyshev <stodyshev@gmail.com>",
