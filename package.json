@@ -1,5 +1,5 @@
 {
-  "name": "duo-coffee",
+  "name": "duo-coffee-script",
   "description": "CoffeeScript plugin for duo package manager",
   "version": "0.0.1",
   "homepage": "http://github.com/sergeyt/duo-coffee",
@@ -7,8 +7,11 @@
   "author": "Sergey Todyshev <stodyshev@gmail.com>",
   "main": "./index.js",
   "keywords": [
+    "duo",
     "duojs",
-    "plugin"
+    "duoplugin",
+    "coffee",
+    "coffeescript"
   ],
   "dependencies": {
     "duo-gulp": "0.0.1",
